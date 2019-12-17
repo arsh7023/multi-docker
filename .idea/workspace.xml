@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8d3cc1d9-bd2e-4a1a-83ae-fc62e4f24761" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1V2Agc4eUdSxtK25jVtNWLY8BLp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/client" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/client" />
+      <recent name="$PROJECT_DIR$/nginx" />
+      <recent name="$PROJECT_DIR$/server" />
+      <recent name="$PROJECT_DIR$/worker" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/worker" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d3cc1d9-bd2e-4a1a-83ae-fc62e4f24761" name="Default Changelist" comment="" />
+      <created>1576440928614</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576440928614</updated>
+      <workItem from="1576440930015" duration="6768000" />
+      <workItem from="1576495354413" duration="6912000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="122" key="FileDocumentManager.FileCacheConflict" timestamp="1576445996654">
+      <screen x="0" y="23" width="1280" height="733" />
+    </state>
+    <state x="0" y="122" key="FileDocumentManager.FileCacheConflict/0.23.1280.733@0.23.1280.733" timestamp="1576445996654" />
+    <state x="-14" y="-961" key="SettingsEditor" timestamp="1576496675649">
+      <screen x="-336" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="-14" y="-961" key="SettingsEditor/0.23.1280.733/-336.-1057.1920.1057@-336.-1057.1920.1057" timestamp="1576496675649" />
+    <state x="231" y="-802" width="673" height="462" key="find.popup" timestamp="1576495012912">
+      <screen x="-336" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="231" y="-802" width="673" height="462" key="find.popup/0.23.1280.733/-336.-1057.1920.1057@-336.-1057.1920.1057" timestamp="1576495012912" />
+    <state x="240" y="-694" width="670" height="676" key="search.everywhere.popup" timestamp="1576494302810">
+      <screen x="-336" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="240" y="-694" width="670" height="676" key="search.everywhere.popup/0.23.1280.733/-336.-1057.1920.1057@-336.-1057.1920.1057" timestamp="1576494302810" />
+  </component>
+</project>
