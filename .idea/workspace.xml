@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d3cc1d9-bd2e-4a1a-83ae-fc62e4f24761" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Dockerrun.aws.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,10 +29,10 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/server" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/client" />
       <recent name="$PROJECT_DIR$/nginx" />
-      <recent name="$PROJECT_DIR$/server" />
       <recent name="$PROJECT_DIR$/worker" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -62,7 +62,7 @@
       <option name="presentableId" value="Default" />
       <updated>1576440928614</updated>
       <workItem from="1576440930015" duration="6768000" />
-      <workItem from="1576495354413" duration="8440000" />
+      <workItem from="1576495354413" duration="10700000" />
     </task>
     <servers />
   </component>
